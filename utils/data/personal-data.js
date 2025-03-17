@@ -12,6 +12,7 @@ export const personalData = {
   twitter: 'https://x.com/MUKULAGGAR21904',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/u/AGGARWAL_MUKUL21/",
-  devUsername:'mukul_aggarwal',
-  resume: "https://drive.google.com/file/d/1WoGCadIqEYIiIleXEBvRmy5Fnm6DEYH_/view?usp=sharing"
+  devUsername: 'mukul_aggarwal',
+  resume: "https://drive.google.com/file/d/1qsInfenqf1eeWyAnzjajILZdgBtnDLEW/view?usp=sharing",
+  // resume: "https://drive.google.com/file/d/1WoGCadIqEYIiIleXEBvRmy5Fnm6DEYH_/view?usp=sharing"
 }
